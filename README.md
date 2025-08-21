@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/timoteo-junior">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="mailto:timoteobbatjunior@gmail.com">
+    <a href="mailto:timoteobbatjunior&#64;gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/timoteoojr">
@@ -34,9 +34,6 @@ ___
     <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
-<a href="https://github.com/timoteo-junior">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timoteo-junior" alt="Status" /> </p>
-</a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timoteo-junior/timoteo-junior/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/timoteo-junior/timoteo-junior/output/github-contribution-grid-snake.svg">
