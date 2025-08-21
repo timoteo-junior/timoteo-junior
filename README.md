@@ -1,35 +1,39 @@
-# Olá 👋 Eu sou <strong>Seu nome</strong> 👨‍💻
-
-![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
+# Olá, Eu sou <strong>Timóteo Júnior!</strong> <a href="https://github.com/timoteo-junior"><img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="Gengar" width="45"><a/>
 
 <p align='center'>
-  <strong>Seu cargo</strong>, <strong>Estado onde você reside</strong>.
+  <strong>Estudante de ADS na faculdade SENAC</strong>, <strong>Pernambuco <a href="https://github.com/timoteo-junior"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bandeira_de_Pernambuco_%28quadrada%29.svg/330px-Bandeira_de_Pernambuco_%28quadrada%29.svg.png" width="20"/><a/></strong>
 </p>
 
 <p align='center'>  
-  <a href="LINK_DO_SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/timoteo-junior">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="LINK_DO_SEU_INSTAGRAM_AQUI">
+    <a href="mailto:timoteobbatjunior@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/timoteoojr">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="LINK_DO_SEU_TWITTER_AQUI">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
 </p>
 
 ___
 
-## Algumas estatísticas minhas:
-
-<a href="LINK_DO_SEU_SITE_AQUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=radical" alt="Github status" />
+<a href="https://github.com/timoteo-junior">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=timoteo-junior&show_icons=true&theme=radical" alt="Github status" />
 </a>
-<a href="LINK_DO_SEU_SITE_AQUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=radical" />
+<a href="https://github.com/timoteo-junior">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoteo-junior&layout=compact&theme=radical" />
 </a>
 
 
 ___
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Duduxs" alt="Status" /> </p>
+<p align='center'>
+  <a href="https://github.com/timoteo-junior">
+    <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+<a href="https://github.com/timoteo-junior">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=timoteo-junior" alt="Status" /> </p>
+</a>
