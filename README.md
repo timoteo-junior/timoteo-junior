@@ -1,7 +1,7 @@
 # Olá, Eu sou <strong>Timóteo Júnior!</strong> <a href="https://github.com/timoteo-junior"><img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="Gengar" width="45"><a/>
 
 <p align='center'>
-  <strong>Estudante de ADS na faculdade SENAC</strong>, <strong>Pernambuco <a href="https://github.com/timoteo-junior"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bandeira_de_Pernambuco_%28quadrada%29.svg/330px-Bandeira_de_Pernambuco_%28quadrada%29.svg.png" width="20"/><a/></strong>
+  <strong>Estudante de Analise e Desenvolvimento de Sistemas na faculdade SENAC</strong>, <strong>Pernambuco <a href="https://github.com/timoteo-junior"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bandeira_de_Pernambuco_%28quadrada%29.svg/330px-Bandeira_de_Pernambuco_%28quadrada%29.svg.png" width="20"/><a/></strong>
 </p>
 
 <p align='center'>  
