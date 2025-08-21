@@ -37,3 +37,8 @@ ___
 <a href="https://github.com/timoteo-junior">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timoteo-junior" alt="Status" /> </p>
 </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timoteo-junior/timoteo-junior/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/timoteo-junior/timoteo-junior/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/timoteo-junior/timoteo-junior/output/github-contribution-grid-snake.svg">
+</picture>
