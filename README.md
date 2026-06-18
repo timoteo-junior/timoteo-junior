@@ -6,31 +6,31 @@
 
 <p align='center'>  
   <a href="https://www.linkedin.com/in/timoteo-junior">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:timoteobbatjunior@gmail.com">
+    <img alt="gmail" src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="50"/>        
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/timoteoojr">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1280px-Instagram_logo_2016.svg.png" width="50"/>        
   </a>&nbsp;&nbsp;
+  
 </p>
-
-___
-
-<a href="https://github.com/timoteo-junior">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=timoteo-junior&show_icons=true&theme=radical" alt="Github status" />
-</a>
-<a href="https://github.com/timoteo-junior">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoteo-junior&layout=compact&theme=radical" />
-</a>
-
 
 ___
 <p align='center'>
   <a href="https://github.com/timoteo-junior">
-    <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt ="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt ="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img alt ="python" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    <img alt ="python" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    
   </a>
 </p>
+___
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/timoteo-junior/timoteo-junior/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/timoteo-junior/timoteo-junior/output/github-contribution-grid-snake.svg">
