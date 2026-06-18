@@ -1,4 +1,10 @@
-# Olá, Eu sou <strong>Timóteo Júnior!</strong> <a href="https://github.com/timoteo-junior"><img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="Gengar" width="45"><a/>
+# Timóteo Júnior - DEV <a href="https://github.com/timoteo-junior"><img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="Gengar" width="45"><a/>
+
+<p align="center"> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Junior%20em%20Ascen%C3%A7%C3%A3o;Projetos%20em%20constante%20evolu%C3%A7%C3%A3o&font=Fira%20Code&center=true&width=440&height=45&color=FFD1A4&vCenter=true&pause=1000&size=22" />
+  </a>
+</p> 
 
 <p align='center'>
   <strong>Estudante de Analise e Desenvolvimento de Sistemas na faculdade SENAC</strong>, <strong>Pernambuco <a href="https://github.com/timoteo-junior"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bandeira_de_Pernambuco_%28quadrada%29.svg/330px-Bandeira_de_Pernambuco_%28quadrada%29.svg.png" width="20"/><a/></strong>
