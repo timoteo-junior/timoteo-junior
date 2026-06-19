@@ -25,7 +25,7 @@
 
 ___
 
-### 🔧 Linguagens e Tecnologias
+### 🛠 Linguagens e Tecnologias
 <p align='center'>
   <a href="https://github.com/timoteo-junior">
     <img 
